@@ -10,5 +10,17 @@ public class NewClass {
         System.out.println("This is new class");
 
 
+        System.out.println("This is new chang");
+        System.out.println("This is new chang");
+        System.out.println("This is new chang");
+
+
+        System.out.println("This is last change");
+        System.out.println("This is last change");
+        System.out.println("This is last change");
+
+        System.out.println("Hello");
+
+
     }
 }
